@@ -1,0 +1,10 @@
+Indicator,Value
+"Number of students (N)",19769
+"Number of schools",571
+"Mean cluster size (students/school)",34.6
+"Weighted population estimate (Sum W_FSTUWT)","272,446 (OECD official: approx. 272,400; approx. 93% population coverage)"
+"Gender (ST004D01T): female / male","9,594 (48.5%) / 10,175 (51.5%) - coding (1 = female, 2 = male) confirmed directly from the value labels embedded in the official .sav file; see Section 4.2"
+"Modal grade at testing","Grade 10 - 48% of students (OECD, 2023a)"
+"ICT familiarity module completion","100% (19,769 of 19,769)"
+"Final student weight (W_FSTUWT) range","1.0-78.32 (no missing values)"
+"Replicate weights","80 (W_FSTURWT1-80), Fay-adjusted BRR method, no missing values"

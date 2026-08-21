@@ -1,0 +1,11 @@
+Construct,Variable(s),Source / scale,Role
+Mathematical literacy,"PV1MATH–PV10MATH","Cognitive test, 10 plausible values",Outcome (primary)
+"Application / reasoning","PV1–10 MPEM, PV1–10 MPRE","Cognitive test, process subscales",Outcome
+"Formulating / interpreting","PV1–10 MPFS, PV1–10 MPIN","Cognitive test, process subscales",Outcome
+Digital learning,"ICTSUBJ, ICTHOME, ICTSCH, ICTQUAL, ICTENQ, ICTOUT, ICTWKDY, ICTEFFIC, and related indices","Student Questionnaire (ICT module), WLE indices",Predictor
+Socio-economic status,"ESCS, HISEI, HOMEPOS, HISCED, PAREDINT","Student Questionnaire, derived indices",Control
+Psychological factors,"MATHEF21, ANXMAT, MATHMOT, MATHPERS, COGACMCO, COGACRCO","Student Questionnaire, WLE indices",Control
+Classroom climate,"TEACHSUP, DISCLIM, BELONG","Student Questionnaire, WLE indices",Control
+Demographics,"ST004D01T, AGE, GRADE, REPEAT",Student Questionnaire,Control
+Sample design,"CNTSCHID (571 schools)",School identifier,Clustering
+Weights,"W_FSTUWT, W_FSTURWT1–80, SENWT","Final and replicate weights","Weighting / SE"
